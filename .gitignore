@@ -1,0 +1,20 @@
+# Backups & autosaves
+Backup/
+logs/
+CrashAutoSave*
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Audio peak cache & DAW cache
+*.reapeaks
+peaks/
+
+# System / Tools
+.DS_Store
+Thumbs.db
+.mcp.json
